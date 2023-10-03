@@ -1,4 +1,4 @@
-<h1>Failed RDP to IP Geolocation Information</h1>
+<h1>Azure Sentinel SIEM Lab to Map Live Cyber Attacks</h1>
 
 <h2>Description</h2>
 <b>The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
@@ -10,6 +10,10 @@ We will observe live attacks (RDP Brute Force) from all around the world. I will
 look up the attackers Geolocation information and plot it on an Azure Sentinel Map!
 <br />
 <br />
+
+<h2>Link to hands on step-by-step guide on how to perform this project</h2>
+
+- <b>https://medium.com/@fadareoluwamuyiwa/azure-sentinel-siem-lab-to-map-live-cyber-attacks-d74c2426d59b</b>
 
 <h2>Languages Used</h2>
 
