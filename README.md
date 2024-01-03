@@ -1,6 +1,9 @@
 <h1>Azure Sentinel SIEM Lab to Map Live Cyber Attacks</h1>
 
 <h2>Description</h2>
+<b>
+ This lab was designed to create a virtual machine to map out live cyber attacks on a world map using a vulnerable Azure Virtual VM (Honeypot) on the internet and then monitor and log attacks from different IP addresses from different countries all over the world and display the data on a world map to visualise where all the attacks are coming from.
+</b>
 <b>The Powershell script in this repository is responsible for parsing out Windows Event Log information for failed RDP attacks and using a third party API to collect geographic information about the attackers location.
 </b>
 <br />
