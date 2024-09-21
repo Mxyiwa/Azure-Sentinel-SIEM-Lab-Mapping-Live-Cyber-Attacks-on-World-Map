@@ -1,4 +1,4 @@
-<h1>Azure Sentinel SIEM Lab to Map Live Cyber Attacks</h1>
+<h1>Azure Sentinel SIEM Lab: Mapping Live Cyber Attacks on World Map</h1>
 
 <h2>Description</h2>
 <b>
