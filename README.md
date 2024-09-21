@@ -16,7 +16,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 
 <h2>Link to hands on step-by-step guide on how to perform this project</h2>
 
-- <b>https://medium.com/@fadareoluwamuyiwa/azure-sentinel-siem-lab-to-map-live-cyber-attacks-d74c2426d59b</b>
+- <b>https://medium.com/@mxyiwa/azure-sentinel-siem-lab-to-map-live-cyber-attacks-d74c2426d59b</b>
 
 <h2>Languages Used</h2>
 
